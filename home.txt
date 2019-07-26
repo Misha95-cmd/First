@@ -1,2 +1,2 @@
-This is the first file for git practice.
+This is the first file for git tutorial.
 Made some modifications

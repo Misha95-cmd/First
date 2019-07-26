@@ -1,2 +1,2 @@
 This is the first file for git practice.
-Made some changes
+Made some modifications
